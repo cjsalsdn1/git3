@@ -1,0 +1,9 @@
+	 Senario 1.  개발자 김길동이  새로운 파일(김길동.txt) 생성 후 로컬 
+	            리포지토리에 Commit한다.    
+	 Senario 2. 개발자 김길동이 로컬 리포지토리에 Commit한 파일을 
+	           Remote 리포지토리(github.com)에 push하여라.
+	 Senario 3. 개발자 김길동이 Push한 소스를 개발자 나길동이 이클립스로 Import하여라.
+	           (상황 : 개발자 나길동는 로컬에서 아무런 작업을 하지 않았음)
+	 Senario 4.개발자 나길동이 새로운 파일(나길동.txt)을 작성후  
+	          Remote 리포지토리(github.com)에 push하고 Github.com에 업로드된 결과를 첨부하여라.
+	 Senario 5.개발자 나길동이 작성한 소스 개발자 김길동의 로컬로 가져오도록하여라. 그리고 그 결과를 첨부하여라. 
